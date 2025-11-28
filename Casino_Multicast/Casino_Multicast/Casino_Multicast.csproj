@@ -99,6 +99,12 @@
     <EmbeddedResource Include="RegisterForm.resx">
       <DependentUpon>RegisterForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Slot1Form.resx">
+      <DependentUpon>Slot1Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Slot2Form.resx">
+      <DependentUpon>Slot2Form.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
