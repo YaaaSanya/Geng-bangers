@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\casino\\Casino Multicast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\slot2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\slot2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\rouletteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\rouletteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\slot1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\slot1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\slot1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\slot1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|d:\\casino\\casino multicast\\casino multicast\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\slot2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\slot2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|d:\\casino\\casino multicast\\casino multicast\\rouletteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\rouletteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\rouletteform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\rouletteform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|D:\\casino\\Casino Multicast\\casino multicast\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85333866-2415-4598-9561-E865DA26B4FA}|Casino Multicast\\Casino Multicast.csproj|solutionrelative:casino multicast\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 37,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\User.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\User.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\User.cs",
+              "RelativeToolTip": "Casino Multicast\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:59:42.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Slot2Form.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\Slot2Form.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\Slot2Form.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\Slot2Form.cs",
+              "RelativeToolTip": "Casino Multicast\\Slot2Form.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwMkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:10:41.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\RegisterForm.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\RegisterForm.cs",
+              "RelativeToolTip": "Casino Multicast\\RegisterForm.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAiwOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:20:40.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\RegisterForm.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "Casino Multicast\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:20:40.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\LoginForm.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\LoginForm.cs",
+              "RelativeToolTip": "Casino Multicast\\LoginForm.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:20:07.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\LoginForm.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Casino Multicast\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:20:06.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\StartForm.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\StartForm.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\StartForm.cs",
+              "RelativeToolTip": "Casino Multicast\\StartForm.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:18:54.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartForm.cs [Design]",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\StartForm.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\StartForm.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\StartForm.cs [Design]",
+              "RelativeToolTip": "Casino Multicast\\StartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:18:53.234Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\Form1.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\Form1.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\Form1.cs [Design]",
+              "RelativeToolTip": "Casino Multicast\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:40:18.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouletteForm.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\RouletteForm.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\RouletteForm.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\RouletteForm.cs",
+              "RelativeToolTip": "Casino Multicast\\RouletteForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:20:01.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Slot2Form.cs [Design]",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\Slot2Form.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\Slot2Form.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\Slot2Form.cs [Design]",
+              "RelativeToolTip": "Casino Multicast\\Slot2Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:10:30.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slot1Form.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\Slot1Form.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\Slot1Form.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\Slot1Form.cs",
+              "RelativeToolTip": "Casino Multicast\\Slot1Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:59:19.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Slot1Form.cs [Design]",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\Slot1Form.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\Slot1Form.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\Slot1Form.cs [Design]",
+              "RelativeToolTip": "Casino Multicast\\Slot1Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:59:17.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\ProfileForm.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\ProfileForm.cs",
+              "RelativeToolTip": "Casino Multicast\\ProfileForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAtwGYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:58:29.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\ProfileForm.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "Casino Multicast\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:58:24.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\UserManager.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\UserManager.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\UserManager.cs",
+              "RelativeToolTip": "Casino Multicast\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:25:00.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RouletteForm.Designer.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\RouletteForm.Designer.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\RouletteForm.Designer.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\RouletteForm.Designer.cs",
+              "RelativeToolTip": "Casino Multicast\\RouletteForm.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:23:52.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouletteForm.cs [Design]",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\RouletteForm.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\RouletteForm.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\RouletteForm.cs [Design]",
+              "RelativeToolTip": "Casino Multicast\\RouletteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:15:39.306Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Casino Multicast\\Properties\\Resources.resx",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\Properties\\Resources.resx",
+              "RelativeToolTip": "Casino Multicast\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-20T18:57:21.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\Form1.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\Form1.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\Form1.cs",
+              "RelativeToolTip": "Casino Multicast\\Form1.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:52:22.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\casino\\Casino Multicast\\Casino Multicast\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Casino Multicast\\Form1.Designer.cs",
+              "ToolTip": "D:\\casino\\Casino Multicast\\Casino Multicast\\Form1.Designer.cs",
+              "RelativeToolTip": "Casino Multicast\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:50:24.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
