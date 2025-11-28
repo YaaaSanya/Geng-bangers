@@ -3,23 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\geng-bangers\\casino_multicast\\casino_multicast\\profileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|solutionrelative:casino_multicast\\profileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\geng-bangers\\casino_multicast\\casino_multicast\\startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|solutionrelative:casino_multicast\\startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\geng-bangers\\casino_multicast\\casino_multicast\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|solutionrelative:casino_multicast\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\geng-bangers\\casino_multicast\\casino_multicast\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|solutionrelative:casino_multicast\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\geng-bangers\\casino_multicast\\casino_multicast\\slot2form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|solutionrelative:casino_multicast\\slot2form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\geng-bangers\\casino_multicast\\casino_multicast\\slot1form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\casino_multicast\\slot1form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|solutionrelative:casino_multicast\\slot1form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\geng-bangers\\casino_multicast\\casino_multicast\\slot2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\casino_multicast\\slot2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|solutionrelative:casino_multicast\\slot2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\geng-bangers\\casino_multicast\\casino_multicast\\slot1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\casino_multicast\\slot1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|solutionrelative:casino_multicast\\slot1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|c:\\users\\\u043A\u043F\u043A\\desktop\\geng-bangers\\casino_multicast\\casino_multicast\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\casino_multicast\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B03765A-6482-425A-8EC9-484B5991E6F5}|Casino_Multicast\\Casino_Multicast.csproj|solutionrelative:casino_multicast\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,27 +71,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Slot2Form.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot2Form.Designer.cs",
-              "RelativeDocumentMoniker": "Casino_Multicast\\Slot2Form.Designer.cs",
-              "ToolTip": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot2Form.Designer.cs",
-              "RelativeToolTip": "Casino_Multicast\\Slot2Form.Designer.cs",
-              "ViewState": "AgIAANcAAAAAAAAAAAAswAMBAAAAAAAAAAAAAA==",
+              "Title": "ProfileForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\ProfileForm.Designer.cs",
+              "RelativeDocumentMoniker": "Casino_Multicast\\ProfileForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\ProfileForm.Designer.cs",
+              "RelativeToolTip": "Casino_Multicast\\ProfileForm.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswGUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T00:55:58.677Z",
+              "WhenOpened": "2025-11-28T01:16:49.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Slot1Form.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot1Form.Designer.cs",
-              "RelativeDocumentMoniker": "Casino_Multicast\\Slot1Form.Designer.cs",
-              "ToolTip": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot1Form.Designer.cs",
-              "RelativeToolTip": "Casino_Multicast\\Slot1Form.Designer.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAswJwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "Casino_Multicast\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "Casino_Multicast\\ProfileForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T00:55:41.757Z",
+              "WhenOpened": "2025-11-28T01:16:40.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\StartForm.Designer.cs",
+              "RelativeDocumentMoniker": "Casino_Multicast\\StartForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\StartForm.Designer.cs",
+              "RelativeToolTip": "Casino_Multicast\\StartForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:16:16.554Z",
               "EditorCaption": ""
             },
             {
@@ -92,31 +120,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "StartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\StartForm.cs",
+              "RelativeDocumentMoniker": "Casino_Multicast\\StartForm.cs",
+              "ToolTip": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\StartForm.cs [Design]",
+              "RelativeToolTip": "Casino_Multicast\\StartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:16:01.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Slot2Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot2Form.Designer.cs",
+              "RelativeDocumentMoniker": "Casino_Multicast\\Slot2Form.Designer.cs",
+              "ToolTip": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot2Form.Designer.cs",
+              "RelativeToolTip": "Casino_Multicast\\Slot2Form.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:55:58.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slot1Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot1Form.Designer.cs",
+              "RelativeDocumentMoniker": "Casino_Multicast\\Slot1Form.Designer.cs",
+              "ToolTip": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot1Form.Designer.cs",
+              "RelativeToolTip": "Casino_Multicast\\Slot1Form.Designer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAswJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:55:41.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Slot2Form.cs [Design]",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot2Form.cs",
               "RelativeDocumentMoniker": "Casino_Multicast\\Slot2Form.cs",
               "ToolTip": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot2Form.cs [Design]",
               "RelativeToolTip": "Casino_Multicast\\Slot2Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T00:55:35.386Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-28T00:55:35.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Slot1Form.cs [Design]",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot1Form.cs",
               "RelativeDocumentMoniker": "Casino_Multicast\\Slot1Form.cs",
               "ToolTip": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Slot1Form.cs [Design]",
               "RelativeToolTip": "Casino_Multicast\\Slot1Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T00:55:23.426Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-28T00:55:23.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Casino_Multicast\\Form1.Designer.cs",
@@ -124,12 +187,11 @@
               "RelativeToolTip": "Casino_Multicast\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T00:35:12.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T00:35:12.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\LoginForm.cs",
               "RelativeDocumentMoniker": "Casino_Multicast\\LoginForm.cs",
@@ -141,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\LoginForm.cs",
               "RelativeDocumentMoniker": "Casino_Multicast\\LoginForm.cs",
@@ -152,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "RegisterForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\RegisterForm.Designer.cs",
               "RelativeDocumentMoniker": "Casino_Multicast\\RegisterForm.Designer.cs",
@@ -164,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "RegisterForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\RegisterForm.cs",
               "RelativeDocumentMoniker": "Casino_Multicast\\RegisterForm.cs",
@@ -175,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\\u043A\u043F\u043A\\Desktop\\Geng-bangers\\Casino_Multicast\\Casino_Multicast\\Form1.cs",
               "RelativeDocumentMoniker": "Casino_Multicast\\Form1.cs",
