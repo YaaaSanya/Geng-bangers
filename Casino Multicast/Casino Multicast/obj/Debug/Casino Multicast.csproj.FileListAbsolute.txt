@@ -1,0 +1,21 @@
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\bin\Debug\Casino Multicast.exe.config
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\bin\Debug\Casino Multicast.exe
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\bin\Debug\Casino Multicast.pdb
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\bin\Debug\Newtonsoft.Json.dll
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\bin\Debug\Newtonsoft.Json.xml
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino Multicast.csproj.AssemblyReference.cache
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino_Multicast.Form1.resources
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino_Multicast.Properties.Resources.resources
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino_Multicast.RegisterForm.resources
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino Multicast.csproj.GenerateResource.cache
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino Multicast.csproj.CoreCompileInputs.cache
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino M.9D41CDFE.Up2Date
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino Multicast.exe
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino Multicast.pdb
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino Multicast.exe.config
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino_Multicast.LoginForm.resources
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino_Multicast.StartForm.resources
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino_Multicast.ProfileForm.resources
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino_Multicast.Slot1Form.resources
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino_Multicast.Slot2Form.resources
+C:\Users\кпк\source\repos\Casino Multicast\Casino Multicast\obj\Debug\Casino_Multicast.RouletteForm.resources

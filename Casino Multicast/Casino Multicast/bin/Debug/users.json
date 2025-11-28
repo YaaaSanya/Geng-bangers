@@ -1,0 +1,74 @@
+[
+  {
+    "Username": "1",
+    "Password": "1",
+    "Balance": 0,
+    "RegistrationDate": "2025-06-20T19:36:22.4627566+03:00",
+    "Slot1Plays": 0,
+    "Slot2Plays": 0,
+    "Slot3Plays": 0
+  },
+  {
+    "Username": "2",
+    "Password": "2",
+    "Balance": 0,
+    "RegistrationDate": "2025-06-20T19:57:25.3454281+03:00",
+    "Slot1Plays": 0,
+    "Slot2Plays": 0,
+    "Slot3Plays": 0
+  },
+  {
+    "Username": "3",
+    "Password": "3",
+    "Balance": 0,
+    "RegistrationDate": "2025-06-20T20:44:03.8898202+03:00",
+    "Slot1Plays": 0,
+    "Slot2Plays": 0,
+    "Slot3Plays": 0
+  },
+  {
+    "Username": "4",
+    "Password": "4",
+    "Balance": 143903804,
+    "RegistrationDate": "2025-06-20T20:44:49.8557498+03:00",
+    "Slot1Plays": 0,
+    "Slot2Plays": 0,
+    "Slot3Plays": 0
+  },
+  {
+    "Username": "masha",
+    "Password": "1",
+    "Balance": 744,
+    "RegistrationDate": "2025-06-23T00:18:48.475227+03:00",
+    "Slot1Plays": 0,
+    "Slot2Plays": 0,
+    "Slot3Plays": 0
+  },
+  {
+    "Username": "15",
+    "Password": "15",
+    "Balance": 80000000,
+    "RegistrationDate": "2025-07-13T18:59:20.3512067+03:00",
+    "Slot1Plays": 0,
+    "Slot2Plays": 0,
+    "Slot3Plays": 0
+  },
+  {
+    "Username": "11111",
+    "Password": "111",
+    "Balance": 611,
+    "RegistrationDate": "2025-07-17T00:13:12.607829+03:00",
+    "Slot1Plays": 0,
+    "Slot2Plays": 0,
+    "Slot3Plays": 0
+  },
+  {
+    "Username": "GPK",
+    "Password": "123",
+    "Balance": 0,
+    "RegistrationDate": "2025-07-25T18:51:21.5180457+03:00",
+    "Slot1Plays": 0,
+    "Slot2Plays": 0,
+    "Slot3Plays": 0
+  }
+]
