@@ -98,6 +98,7 @@
       <DependentUpon>StartForm.cs</DependentUpon>
     </Compile>
     <Compile Include="User.cs" />
+    <Compile Include="UserManager.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -119,6 +120,9 @@
     </Compile>
     <EmbeddedResource Include="RegisterForm.resx">
       <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RouletteForm.resx">
+      <DependentUpon>RouletteForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Slot1Form.resx">
       <DependentUpon>Slot1Form.cs</DependentUpon>
